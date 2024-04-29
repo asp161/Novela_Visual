@@ -1,0 +1,35 @@
+// IMPORTANTE //
+
+Para ver el trabajo correctamente necesitas extraer el zip en una carpeta y mantener todos los archivos dentro,
+es decir, dentro de una carpeta tiene que haber:
+
+-imagenes
+-musica
+-La Batalla de Alkamar
+-LEER
+
+Para jugar simplemente abrir "La Batalla de Alkamar" un archivo html, recomendado abrir con el navegador chrome
+
+// ACLARACIONES DE LA HISTORIA // SPOILERS //
+
+Antes de nada recomiendo leer todo esto después de haber jugado mínimo 1 vez.
+
+
+Suponiendo que has jugado ya La Batalla de Alkamar, queremos hacer una guía de cómo hemos planteado la historia.
+Hemos querido dar al jugador la libertad de hacer y elegir lo que quiera, pese a lo que haya seleccionado, pero la gracia
+de la historia depende mucho de la información que tú obtengas. Hay un punto de inflexión en el que tienes que elegir:
+TABERNA //  RIO // MERCADILLO // IR A ENTRENAR DIRECTAMENTE
+
+Para entender el final bueno y verdadero, ver la manipulación de la ciudad, la ruta correcta debería ser el RIO.
+Si quieres obtener la información de solo la gente de la ciudad, vas al MERCADILLO, que da lugar a que entiendas el final malo como el mejor.
+La Taberna es el peor sitio para obtener información, solo sirve para pasar el rato haciendo un acertijo.
+Ir a entrenar pierdes muchísima información POCO RECOMENDABLE para entender la historia o tener un propio criterio.
+
+También en el diseño artístico hemos querido jugar con el tema de que el protagonista, en su pecho tiene el color naranja de base,
+pero a medida que apoya más al pueblo y sigue sus ideales de venganza a los pueblo cercanos que no pagan, se convierte más rojo e intenso,
+sin embargo el amigo sigue siendo su color verde, tal cual, cuando eran pequeños. Los colores más cálidos generan más agitación y mas tensión,
+reflejada en la masacre que genera la ciudad a los pueblos.
+
+El objetivo de la historia era que tengas una lucha interior con quién eres, y si la gente te quiere por quién eres o
+por qué puedes ser capaz de hacer, además de la manipulación de los superiores, en la ciudad, tal cómo se hacía
+en la Edad Media con las personas que contradecían a la Iglesia.
